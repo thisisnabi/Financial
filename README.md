@@ -1,2 +1,3 @@
 # Accounting
-Use ASP.NET Core and Domain Driven Design
+
+Accounting, also known as accountancy, is the process of recording and processing information about economic entities, such as businesses and corporations
